@@ -1,0 +1,8 @@
+[
+{"id":1,"name":"Gulyásleves","category":"leves","time":90,"difficulty":"közepes","portion":4},
+{"id":2,"name":"Tiramisu","category":"desszert","time":30,"difficulty":"könnyű","portion":6},
+{"id":3,"name":"Rakott krumpli","category":"főétel","time":80,"difficulty":"közepes","portion":6},
+{"id":4,"name":"Rántott csirke","category":"főétel","time":40,"difficulty":"közepes","portion":4},
+{"id":5,"name":"Sült alma","category":"desszert","time":25,"difficulty":"könnyű","portion":4},
+{"id":6,"name":"Csokoládés torta","category":"sütemény","time":120,"difficulty":"nehéz","portion":8}
+]

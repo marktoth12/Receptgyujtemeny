@@ -1,21 +1,17 @@
 <?php
 function render_difficulty_badge(string $difficulty): string {
     $d = mb_strtolower($difficulty);
-    $icon = '•';
     $class = 'text-sm px-2 py-1 rounded-full';
     switch ($d) {
         case 'könnyű':
-            $icon = '🌿';
             $bg = 'bg-green-100';
             $text = 'text-green-800';
             break;
         case 'közepes':
-            $icon = '⚖️';
             $bg = 'bg-yellow-100';
             $text = 'text-yellow-800';
             break;
         case 'nehéz':
-            $icon = '🔥';
             $bg = 'bg-red-100';
             $text = 'text-red-800';
             break;

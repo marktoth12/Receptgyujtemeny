@@ -11,10 +11,10 @@
 
     <div class="bg-white p-4 rounded shadow">
         <h2 class="text-xl font-semibold">Gyors szűrés</h2>
-        <div class="mt-2 space-y-2">
-            <a href="?page=recipes&difficulty=könnyű" class="block">Könnyű</a>
-            <a href="?page=recipes&difficulty=közepes" class="block">Közepes</a>
-            <a href="?page=recipes&difficulty=nehéz" class="block">Nehéz</a>
+        <div class="mt-2 space-y-2 w-24">
+            <a href="?page=recipes&difficulty=könnyű" class="block px-3 py-1 rounded-lg bg-green-200 text-green-800 font-medium hover:bg-green-300 text-center">Könnyű</a>
+            <a href="?page=recipes&difficulty=közepes" class="block px-3 py-1 rounded-lg bg-yellow-200 text-yellow-800 font-medium hover:bg-yellow-300 text-center">Közepes</a>
+            <a href="?page=recipes&difficulty=nehéz " class="block px-3 py-1 rounded-lg bg-red-200 text-red-800 font-medium hover:bg-red-300 text-center">Nehéz</a>
         </div>
     </div>
-</div>
+</div> 

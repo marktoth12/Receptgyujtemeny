@@ -14,7 +14,7 @@
                 <option value="<?= $cat ?>"><?= $cat ?></option>
             <?php endforeach; ?>
         </select>
-        <button class="px-3 py-1 bg-blue-500 text-white rounded">Szűr</button>
+        <button class="px-3 py-1 bg-blue-500 text-white rounded">Szűrés</button>
     </form>
 </div>
 
